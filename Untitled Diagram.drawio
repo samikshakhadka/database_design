@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T01:45:45.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mlyF_rwjgZq981z74OQ3" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T01:48:31.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="k3eaBM4yw6SJv6xApiB0" version="21.6.9" type="github">
   <diagram name="Page-1" id="TGU5VF88odxVw6meizL3">
     <mxGraphModel dx="2950" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,11 +34,6 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="230" y="515" as="sourcePoint" />
             <mxPoint x="356.39999999999986" y="372.44000000000005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j0plcb7G9ApuMpNmYa-s-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j0plcb7G9ApuMpNmYa-s-14">
-          <mxGeometry x="0.2267" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0plcb7G9ApuMpNmYa-s-19" value="Clinic" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" vertex="1" parent="1">
